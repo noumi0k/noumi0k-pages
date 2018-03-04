@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noumi0k</title>
-    <link>https://noumi0k.github.io/</link>
+    <link>https://noumi0k.github.io/noumi0k-pages/</link>
     <description>Recent content on Noumi0k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="https://noumi0k.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noumi0k.github.io/noumi0k-pages/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
